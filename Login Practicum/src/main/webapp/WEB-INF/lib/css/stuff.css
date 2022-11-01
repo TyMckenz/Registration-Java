@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+*{background-color: #a133ba;}
+
+
+.space {
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
